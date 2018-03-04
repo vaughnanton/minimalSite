@@ -107,7 +107,8 @@ img {
 	.begin-img {margin-top:0%;}
 	.row {min-height:0vh;}
 	.logoImg {margin-top:2%;}
-	ul li {padding: 0 40px;}
+	ul li {padding: 0 25px;}
+	.links {padding: 5% 0 2% 0}
 }
 
 @media only screen and (max-width: 768px) and (min-width: 481px) {
